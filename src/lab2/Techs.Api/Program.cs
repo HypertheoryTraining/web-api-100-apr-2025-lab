@@ -3,6 +3,8 @@ using Marten;
 using Techs.Api.Techs;
 using Techs.Api.Techs.Services;
 
+
+// Got Going on this.
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
